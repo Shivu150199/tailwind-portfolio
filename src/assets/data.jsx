@@ -32,11 +32,11 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: 'https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=800',
+    img: 'src/assets/image/Screenshot 2023-08-04 220755.png',
     url: 'https://sprightly-pie-1602fb.netlify.app/',
     github: 'https://github.com/Shivu150199',
-    title: 'first project',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
+    title: 'Unsplash Image Gallery',
+    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti',
   },
   {
     id: nanoid(),
